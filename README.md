@@ -51,4 +51,4 @@ Portfolio
 
 Visit my portfolio to view project demonstrations, workflow concepts, and solution case studies:
 
-margaretbuilds.com
+https://www.margaretbuilds.com
